@@ -15,11 +15,11 @@ Tengo 21 años, soy de Rosario, Santa Fe, Argentina.
 I'm 21 years old, I'm from Rosario, Santa Fe, Argentina.
 #### - 🌱 I am currently studying, I am in the last year of functional computer systems analyst.
 - 💻 I have skills like: <br>
-* Trainee software developer (Python, MySQL)
-* Web Developer Trainee (HTML5, CSS, JavaScript, React, MySQL)
+*     Trainee software developer (Python, MySQL)
+*     Trainee Web Developer (HTML5, CSS, JavaScript, React, MySQL)
    
 📚I have knowledge in: <br>
-* PHP
+*  PHP
 *  English
 *  Portuguese
 *  French
