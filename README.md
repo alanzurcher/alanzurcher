@@ -1,14 +1,11 @@
-### Hola soy Alan Zurcher 👋
-
-<!--
-**alanzurcher/alanzurcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-
-- 🌱 Actualmente estoy en el ultimo año de Analista Funcional de sistemas informáticos
-- 💻Habilidades:
-    • Desarrollador de software Trainee (Python, MySQL)
-    • Desarrollador Web Traiee (HTML5, CSS, JavaScript, React)
+# Hola soy Alan Zurcher 👋
+Tengo 21 años, soy de Rosario, Santa Fe, Argentina. 
+### - 🌱 Actualmente estoy cursando el último año de Analista Funcional de Sistemas Informáticos.
+- 💻 Además tengo habilidades como: <br>
+*     Desarrollador de software Trainee (Python, MySQL) 
+*     Desarrollador Web Trainee (HTML5, CSS, JavaScript, React, MySQL)
    
-📚Tengo conocimientos en: 
-    • PHP
-    • Ingles
-    • Portugués
+📚Tengo conocimientos en: <br>
+*  PHP
+*  Ingles
+*  Portugués
