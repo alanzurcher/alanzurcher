@@ -5,7 +5,10 @@
 
 - 🌱 Actualmente estoy en el ultimo año de Analista Funcional de sistemas informáticos
 - 💻Habilidades:
-    • Python 
-    • MySQL 
+    • Desarrollador de software Trainee (Python, MySQL)
+    • Desarrollador Web Traiee (HTML5, CSS, JavaScript, React)
    
-📚Tengo conocimientos en: •  JavaScript • JQuery • HTML5 • CSS
+📚Tengo conocimientos en: 
+    • PHP
+    • Ingles
+    • Portugués
