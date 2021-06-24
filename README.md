@@ -9,7 +9,9 @@ Tengo 21 años, soy de Rosario, Santa Fe, Argentina.
 *  PHP
 *  Inglés
 *  Portugués
-*  Francés
+*  Francés<br>
+#### Mail: <br>
+*  zurcher1889@gmail.com
 
 ## Hi, I'm Alan Zurcher 👋
 I'm 21 years old, I'm from Rosario, Santa Fe, Argentina.
